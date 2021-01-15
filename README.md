@@ -2,14 +2,7 @@
 
 <img width="1067" alt="Skjermbilde 2021-01-15 kl  22 51 27" style="position: absolute; top: 0; z-index: -1; width: 100vw; left: 0;;" src="https://user-images.githubusercontent.com/16366210/104782586-bf32a900-5784-11eb-85c4-f17f9da008d2.jpg">
 
-<br>
-<br>
-<br>
-
 <img width="232" alt="Skjermbilde 2021-01-14 kl  20 39 52" src="https://user-images.githubusercontent.com/16366210/104640402-bb315900-56a8-11eb-9b41-e47c28d8eb73.png">
-
-<br>
-<br>
 
 > Deploy Static Website on AWS
 >
